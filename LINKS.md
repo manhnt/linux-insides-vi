@@ -5,7 +5,7 @@ Linux boot
 ------------------------
 
 * [Linux/x86 boot protocol](https://www.kernel.org/doc/Documentation/x86/boot.txt)
-* [Linux kernel parameters](https://github.com/torvalds/linux/blob/master/Documentation/kernel-parameters.txt)
+* [Linux kernel parameters](https://github.com/torvalds/linux/blob/master/Documentation/admin-guide/kernel-parameters.rst)
 
 Protected mode
 ------------------------
@@ -45,10 +45,6 @@ Important data structures
 
 * [task_struct definition](http://lxr.free-electrons.com/source/include/linux/sched.h#L1274)
 
-Other architectures
-------------------------
-
-* [PowerPC and Linux Kernel Inside](http://www.systemcomputing.org/ppc/)
 
 Useful links
 ------------------------
